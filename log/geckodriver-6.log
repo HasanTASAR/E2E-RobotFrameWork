@@ -1,0 +1,23 @@
+1706097894675	geckodriver	INFO	Listening on 127.0.0.1:50104
+1706097897878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofiledQMELM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706097899888	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706097900341	Marionette	INFO	Listening on port 50128
+WebDriver BiDi listening on ws://127.0.0.1:50105
+Read port: 50128
+1706097901197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50105/devtools/browser/6a292c48-b276-4f95-943e-49624b93d5d7
+JavaScript error: https://www.n11.com/%20chrome, line 168: ReferenceError: googletag is not defined
+JavaScript error: https://www.n11.com/%20chrome, line 183: ReferenceError: googletag is not defined
+JavaScript warning: https://n11-core.cbot.ai/js/widget/cbot-n11prod-generator.js?v=160923, line 1958: unreachable code after return statement
+1706097912168	Marionette	INFO	Stopped listening on port 50128
+JavaScript warning: https://cdn.omniconvert.com/js/pcb56a1.js, line 1: Script terminated by timeout at:
+[102]<@https://cdn.omniconvert.com/js/pcb56a1.js:1:279880
+r@https://cdn.omniconvert.com/js/pcb56a1.js:1:97
+@https://cdn.omniconvert.com/js/pcb56a1.js:1:175
+@https://cdn.omniconvert.com/js/pcb56a1.js:1:182
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

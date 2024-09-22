@@ -1,0 +1,20 @@
+1706099274176	geckodriver	INFO	Listening on 127.0.0.1:50981
+1706099277656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50982" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileKVDjrm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706099278413	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706099278685	Marionette	INFO	Listening on port 50991
+WebDriver BiDi listening on ws://127.0.0.1:50982
+Read port: 50991
+1706099279181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50982/devtools/browser/4d9db3be-a100-4c63-8b40-1b79f3bfb015
+JavaScript error: https://www.n11.com/%20Chrome, line 168: ReferenceError: googletag is not defined
+JavaScript error: https://www.n11.com/%20Chrome, line 183: ReferenceError: googletag is not defined
+JavaScript warning: https://n11-core.cbot.ai/js/widget/cbot-n11prod-generator.js?v=160923, line 1958: unreachable code after return statement
+1706099291391	Marionette	INFO	Stopped listening on port 50991
+JavaScript warning: https://n11scdn.akamaized.net/static/new-design/static/output/js/n11_1705389487023.js, line 1: Script terminated by timeout at:
+S@https://n11scdn.akamaized.net/static/new-design/static/output/js/n11_1705389487023.js:1:1014
+init/</<@https://n11-core.cbot.ai/js/widget/cbot-n11prod-generator.js?v=160923:1146:32
+
+Dynamically enable window occlusion 1
